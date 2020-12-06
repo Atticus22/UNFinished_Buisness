@@ -1,7 +1,5 @@
 # Unfinished Business Application Form
 
-# Unfinished Business Application Form
-
 This is a job application form for a fictional comapny called UNFinished Buisness.
 
 
