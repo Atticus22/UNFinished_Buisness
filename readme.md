@@ -25,28 +25,28 @@ Enter the contact details of a person whom to contact in case of any emergency:
 
 Enter your availability to work:
 
-<img src="avail.png" width="auto" height="auto">
+<img src="avail.PNG" width="auto" height="auto">
 
 ## References:
 
 Enter any Reference Information:
 
-<img src="ref.png" width="auto" height="auto" >
+<img src="ref.PNG" width="auto" height="auto" >
 
 ## Miscellaneous:
 
 Enter some Miscellaneous Information to continue:
 
-<img src="misc.png" width="auto" height="auto" >
+<img src="misc.PNG" width="auto" height="auto" >
 
 ## Additional Skills and Experience
 
 Additional skills & experience you have:
 
-<img src="additional.png" width="auto" height="auto" >
+<img src="additional.PNG" width="auto" height="auto" >
 
 ## Application Acknowledgment and Waiver:
 
 Do leave your sign and acknowlege the terms & Submit the form:
 
-<img src="acknowledge.png" width="auto" height="auto" >
+<img src="acknowledge.PNG" width="auto" height="auto" >
