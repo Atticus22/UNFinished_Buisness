@@ -1,0 +1,104 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: sans-serif;
+	background:#f9f9f9;
+}
+.container-fluid{
+	margin:0px;
+	padding:0px;
+}
+.main-col{
+	margin-top:20px;
+}
+.main-heading{
+	font-size:40px;
+	text-shadow:2px 2px 3px white;
+}
+fieldset{
+	box-shadow:0px 0px 4px 1px #1d2026;
+	box-sizing: border-box;
+	padding:20px;
+}
+legend{
+	background:white;
+	margin-left:20px;
+	box-sizing: border-box;
+	display: inline-block;
+	padding:10px 20px;
+	font-size:20px;
+	width:auto;
+	background:black; #8daef2;
+	/*background:#1d2026;*/
+	/*box-shadow:0px 0px 4px 1px #1d2026;*/
+	color:white;
+}
+.main-col form label{
+	display: block;
+	margin-bottom:0px;
+	font-size:14px;
+	color:black;
+	font-weight: 600;
+}
+.main-col form input, .main-col form select{
+	width:100%;
+	margin-top:2px;
+	height:35px;
+	background:#ededed;
+	border:none;
+	border-bottom:1px solid black;
+
+}
+.main-col form textarea{
+	width:100%;
+	margin-top:2px;
+	height:50px;
+	background:#ededed;
+	border:none;
+	border-bottom:1px solid black;
+}
+.main-col form input:focus{
+	box-shadow:0px 0px 3px 1px gray;
+	outline:none;
+
+}
+.main-col form input[type="checkbox"]{
+	width:20px;
+	height: 20px;
+	margin-top:10px;
+}
+
+input[type=checkbox], input[type=radio] {
+  vertical-align: bottom;
+  position: relative;
+  bottom: 3px;
+}
+.disclaimer p{
+	font-size:14px;
+	text-transform: lowercase;
+	color:gray;
+	text-align:justify;
+	margin:0px;
+	padding:0px;
+	line-height:18px;
+}
+.disclaimer p:first-letter{
+	text-transform: capitalize;
+}
+
+.main-col form input[type="submit"]{
+	width:100%;
+	height:auto;
+	background: black;
+	color:white;
+	padding:8px 20px;
+	font-size:20px;
+	text-transform:uppercase;
+	border:none;
+}
+.main-col form input[type="submit"]:hover{
+	background:white;
+	color:black;
+	border:2px solid black;
+
+}
